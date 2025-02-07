@@ -1,5 +1,4 @@
-# DigiMark101
-Ai Digital Marketing Agency 
+
 import React, { Suspense, lazy, createContext, useContext, useReducer } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
